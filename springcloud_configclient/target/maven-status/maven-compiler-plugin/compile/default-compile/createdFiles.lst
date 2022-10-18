@@ -1,0 +1,6 @@
+com\main\controller\BookController.class
+com\main\service\BookService.class
+com\main\model\Book.class
+com\main\repository\BookRepository.class
+com\main\service\IBookService.class
+com\main\SpringcloudConfigclientApplication.class
